@@ -1,0 +1,3 @@
+CREATE USER playground;
+
+CREATE SCHEMA AUTHORIZATION playground;

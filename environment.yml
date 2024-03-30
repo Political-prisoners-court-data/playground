@@ -1,0 +1,14 @@
+name: playground
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - jupyterlab
+  - pandas
+  - ydata-profiling
+  - ipywidgets
+  - sqlalchemy
+  - psycopg2
+  - pip
+  - pip:
+      - pyairtable
